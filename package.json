@@ -1,0 +1,11 @@
+{
+	"name":"HackerNews",
+	"version":"0.0.1",
+	"description":"Scraping using node.js",
+	"author":"Mahendren",
+	"dependencies":{
+		"express":"latest",
+		"request":"latest",
+		"cheerio":"latest"
+	 }
+}
